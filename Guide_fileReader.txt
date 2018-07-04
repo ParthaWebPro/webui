@@ -1,0 +1,2 @@
+https://www.html5rocks.com/en/tutorials/file/dndfiles/
+https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications
